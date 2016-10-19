@@ -1,0 +1,1 @@
+module.exports.test = "I am a/b/test2.js";
